@@ -54,7 +54,7 @@ Add animated GIF of snake movement
 This project is licensed under the MIT License.
 
 ## Demo Screenshort
-![Game UI](image.png)
+![Game UI](images/snake_game.png)
 
 Optional: Add a requirements.txt file:
 # requirements.txt
