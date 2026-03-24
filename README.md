@@ -53,10 +53,9 @@ Add animated GIF of snake movement
 
 This project is licensed under the MIT License.
 
-📌 Notes
-Save your screenshot or GIF in your repo folder (e.g., images/snake_game.gif)
-Replace path/to/your/image.png with the actual path:
-![Game Output](image.png)
+## Demo Screenshort
+![Game UI](image.png)
+
 Optional: Add a requirements.txt file:
 # requirements.txt
 # Turtle module is built-in with Python
